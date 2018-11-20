@@ -1,0 +1,14 @@
+{
+  "name": "implementation-of-ex10",
+  "version": "1.0.0",
+  "description": "implementation of multiplication table from range",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ikersuen",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
