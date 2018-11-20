@@ -77,4 +77,4 @@ function MultiplyTwoValue(first, second){
 
 console.log(createMultiplyTable(998,1000));
 
-module.exports = createMultiplyTable;
+module.exports = {createMultiplyTable, inputValidation};
